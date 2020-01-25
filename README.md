@@ -34,7 +34,7 @@
 * [*Northwest Facts*](https://www.nwmissouri.edu/facts/index.htm)<br>
 
 #### Image Source:
-* https://whoopdirt.com/
-* https://vulndetect.org/
-* https://www.professors.directory/
-* https://becaseducationusa.files.wordpress.com/
+* [whoopdirt.com](https://whoopdirt.com/wp-content/uploads/2016/03/paw.jpg)
+* [https://vulndetect.org](https://vulndetect.org/assets/uploads/files/1557069647223-microsoft_outlook_2016_icon_256x256.ico)
+* [https://www.professors.directory](https://www.professors.directory/gallery/594__fab.jpg)
+* [https://becaseducationusa.files.wordpress.com](https://becaseducationusa.files.wordpress.com)
