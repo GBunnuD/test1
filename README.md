@@ -34,7 +34,6 @@
 
 #### Image Source:
 * https://whoopdirt.com/
-
 * https://vulndetect.org/
 * https://www.professors.directory/
 * https://becaseducationusa.files.wordpress.com/
